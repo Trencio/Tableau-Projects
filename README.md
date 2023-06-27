@@ -27,9 +27,13 @@ View all my Tableau-Projects Dashboards on my Tableau Public Profile link -
 
 
 
-### 2. Coffee Shop Analysis Dashboard 
+### 3. Coffee Shop Analysis Dashboard 
 
 <img src = "https://github.com/Trencio/Tableau-Projects-Final/blob/main/Maven%20Roasters%20Store%20Analysis.png"/>
+
+
+
+### 4. Coffee Shop Analysis Dashboard 
 
 
 
