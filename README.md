@@ -13,6 +13,6 @@ View all my Tableau-Projects Dashboards on my Tableau Public Profile link -
 
 ### 1. Maple Roasters Coffee shop BI Dashboard
 
-
+<img src = "https://github.com/Trencio/Tableau-Projects-Final/blob/main/Screenshot%202023-06-27%20at%2012.33.43%20PM.png"/>
 
 
