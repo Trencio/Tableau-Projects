@@ -17,6 +17,6 @@ View all my Tableau-Projects Dashboards on my Tableau Public Profile link -
 
 ### 2. Hertz Rental Car Dashboard 
 
-
+<img src = "https://github.com/Trencio/Tableau-Projects-Final/blob/main/Layout%201.png"/>
 
 
