@@ -35,7 +35,7 @@ View all my Tableau-Projects Dashboards on my Tableau Public Profile link -
 
 ### 4. Coffee Shop Analysis Dashboard 
 
-
+<img src = "https://github.com/Trencio/Tableau-Projects-Final/blob/main/Hospital%20Patient%20Care%20Dashboard.png"/>
 
 
 ## What I Learnt in Tableau over the years: 
