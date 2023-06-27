@@ -21,5 +21,6 @@ View all my Tableau-Projects Dashboards on my Tableau Public Profile link -
 
 ### 2. Coffee Shop Analysis Dashboard 
 
+<img src = "https://github.com/Trencio/Tableau-Projects-Final/blob/main/Screenshot%202023-06-27%20at%2012.34.43%20PM.png"/>
 
 
