@@ -8,3 +8,11 @@ Learnt Data Visualization and Data Analytics with Tableau by solving 3 Realistic
   </pre>
 
 View all my Tableau-Projects Dashboards on my Tableau Public Profile link - 
+
+## Screenshots
+
+### 1. Maple Roasters Coffee shop BI Dashboard
+
+
+
+
