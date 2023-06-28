@@ -4,8 +4,9 @@ Learnt Data Visualization and Data Analytics with Tableau by solving 3 Realistic
   <pre>
   1. Maple Roasters BI Coffee   
   2. Hertz Rental BI Car           
-  3. Coffee Shop BI 
-  4. Hospital Patient Care 
+  3. Maple Roasters Customer BI 
+  4. Wind Turbine Analysis
+  5. U.S Bank Trend Analysis
   </pre>
 
 View all my Tableau-Projects Dashboards on my Tableau Public Profile link - 
@@ -30,7 +31,7 @@ View all my Tableau-Projects Dashboards on my Tableau Public Profile link -
 
 ### 3. Coffee Shop Analysis Dashboard 
 
-<img src = "https://github.com/Trencio/Tableau-Projects-Final/blob/main/Maven%20Roasters%20Store%20Analysis.png"/>
+<img src = "https://github.com/Trencio/Tableau-Projects/blob/main/Maven%20Roasters%20Customter%20Analysis%20.png/">
 
 
 ### 4. Wind Turbine Analysis 
