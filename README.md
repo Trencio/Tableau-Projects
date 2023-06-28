@@ -37,6 +37,11 @@ View all my Tableau-Projects Dashboards on my Tableau Public Profile link -
 
 <img src = "https://github.com/Trencio/Tableau-Projects/blob/main/Wind%20Turbine%20Analysis.jpg"/>
 
+### 5. U.S Bank Trend Analysis 
+
+<img src = "https://github.com/Trencio/Tableau-Projects/blob/main/U.S%20Bank%20Failures%20Analysis.jpg"/> 
+
+
 ## What I Learnt in Tableau over the years: 
 
     Advanced charting techniques:
