@@ -33,7 +33,9 @@ View all my Tableau-Projects Dashboards on my Tableau Public Profile link -
 <img src = "https://github.com/Trencio/Tableau-Projects-Final/blob/main/Maven%20Roasters%20Store%20Analysis.png"/>
 
 
+### 4. Wind Turbine Analysis 
 
+<img src = "https://github.com/Trencio/Tableau-Projects/blob/main/Wind%20Turbine%20Analysis.jpg"/>
 
 ## What I Learnt in Tableau over the years: 
 
