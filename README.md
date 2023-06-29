@@ -6,7 +6,7 @@ Learnt Data Visualization and Data Analytics with Tableau by solving 3 Realistic
   2. Hertz Rental BI Car           
   3. Maple Roasters Customer BI 
   4. Wind Turbine Analysis
-  5. U.S Bank Trend Analysis
+  5. Global Pipleline Dashboard
   </pre>
 
 View all my Tableau-Projects Dashboards on my Tableau Public Profile link - 
@@ -38,9 +38,9 @@ View all my Tableau-Projects Dashboards on my Tableau Public Profile link -
 
 <img src = "https://github.com/Trencio/Tableau-Projects/blob/main/Wind%20Turbine%20Analysis.jpg"/>
 
-### 5. U.S Bank Trend Analysis 
+### 5. Global Pipeline Analysis 
 
-<img src = "https://github.com/Trencio/Tableau-Projects/blob/main/U.S%20Bank%20Failures%20Analysis.jpg"/> 
+<img src = "https://github.com/Trencio/Tableau-Projects/blob/main/Global%20Pipeline%20Dashboard.png"/> 
 
 
 ## What I Learnt in Tableau over the years: 
