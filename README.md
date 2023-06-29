@@ -49,7 +49,7 @@ View all my Tableau-Projects Dashboards on my Tableau Public Profile link -
 
 2. Dashboard Design:  showcasing well-designed dashboards. Being able to  learn how to arrange and organize visualizations, add interactive filters, create navigation elements, and incorporate user-friendly features into my dashboards.
 
-3.Data Preparation and Blending: Learning  how to prepare the data for analysis, including techniques for data cleaning, reshaping, and blending multiple data sources. I also  learned about data joins, data blending, data parsing, and transforming data for better visualization.
+3. Data Preparation and Blending: Learning  how to prepare the data for analysis, including techniques for data cleaning, reshaping, and blending multiple data sources. I also  learned about data joins, data blending, data parsing, and transforming data for better visualization.
 
 4. Calculations and Expressions: Developing an understanding on how to  demonstrate and  create calculated fields, custom formulas, and expressions using Tableau's calculation language. As well as learning  how to perform aggregations, create conditional statements, and define calculated measures to enhance my analysis.
 
