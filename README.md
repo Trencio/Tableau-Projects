@@ -45,26 +45,18 @@ View all my Tableau-Projects Dashboards on my Tableau Public Profile link -
 
 ## What I Learnt in Tableau over the years: 
 
-    Advanced charting techniques:
-       -  Creating dual-axis charts to compare two measures on different scales (e.g., revenue and profit).
-       - Building combination charts with different chart types in a single visualization (e.g., bar chart combined with a line chart).
-       -  Using reference lines and trend lines to highlight specific data trends or benchmarks.
+1. Data Visualization Techniques: Learning  data visualization techniques such as creating bar charts, line charts, scatter plots, maps, heatmaps, treemaps, and more. Exploring different chart types and  understand how to represent the data effectively.
 
-    Advanced calculations and formulas:
-       - Utilizing level of detail (LOD) expressions to perform calculations at different levels of granularity (e.g., calculating average sales per customer regardless of other dimensions).
-       - Implementing table calculations to perform calculations across rows, columns, or panes (e.g., calculating running totals or moving averages).
-        - Creating advanced calculations using functions like WINDOW_SUM, RANK, and IF-THEN-ELSE statements.
+2. Dashboard Design:  showcasing well-designed dashboards. Being able to  learn how to arrange and organize visualizations, add interactive filters, create navigation elements, and incorporate user-friendly features into my dashboards.
 
-    Advanced data manipulation:
-        - Using data blending to combine data from multiple sources with different schemas (e.g., blending sales data from different regions or databases).
-        - Implementing data joins and unions to merge data from different tables or worksheets (e.g., joining customer information with sales data).
-        - Applying data pivoting and reshaping techniques to transform data from a wide format to a long format or vice versa.
+3.Data Preparation and Blending: Learning  how to prepare the data for analysis, including techniques for data cleaning, reshaping, and blending multiple data sources. I also  learned about data joins, data blending, data parsing, and transforming data for better visualization.
 
-    Advanced interactivity and user experience:
-        - Building interactive dashboards with actions and filters to allow users to explore data dynamically (e.g., filtering a dashboard to show data for specific regions or time periods).
-        - Creating parameter controls to enable users to change variables and see the impact on visualizations (e.g., adjusting a parameter to view data for different product categories).
-        - Implementing drill-down and hierarchy navigation to provide users with detailed insights at different levels of data granularity (e.g., drilling down from country to city level in a map).
+4. Calculations and Expressions: Developing an understanding on how to  demonstrate and  create calculated fields, custom formulas, and expressions using Tableau's calculation language. As well as learning  how to perform aggregations, create conditional statements, and define calculated measures to enhance my analysis.
 
-    Performance optimization and data optimization:
-        - Utilizing data extracts to improve performance by aggregating and pre-processing data before loading into Tableau.
-       -  Applying data source filters and context filters to reduce the amount of data being loaded and processed in visualizations.
+5. Interactivity and Filters: Utilizing interactivity features such as filters, parameters, and actions I  learned how to create dynamic visualizations that allow users to interact with the data and explore different aspects of the analysis.
+
+6. Mapping and Geospatial Analysis: Leaning the key concepts for geospatial analysis by  creating  maps, plot geographic data, and perform spatial analysis. Some of key concepts I learned was  about geocoding, mapping layers, custom map styling, and using spatial calculations.
+
+7. Advanced Analytics: Some of the techniques i used over the years were forecasting, trend analysis, clustering, and statistical calculations. Also learning how to  leverage Tableau's built-in analytical functions or integrate with external statistical tools.
+
+8. Storytelling and Presentation: Using storytelling elements where data visualizations are combined to tell a cohesive story or present insights. This is where i was able to tell  compelling narratives, add annotations, and structures in my analysis for effective communication with stakeholders. 
